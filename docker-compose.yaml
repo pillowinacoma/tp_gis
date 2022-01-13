@@ -1,0 +1,24 @@
+version: '3.9'
+
+services:
+  pgadmin:
+    image: dpage/pgadmin4
+    restart: always
+    environment:
+      PGADMIN_DEFAULT_EMAIL: admin@admin.com
+      PGADMIN_DEFAULT_PASSWORD: root
+    ports:
+      - "5050:80"
+    links:
+      - postgis
+
+  postgis:
+    image: postgis/postgis
+    container_name: postgis
+    ports:
+      - '5432:5432'
+    environment:
+      POSTGRES_PASSWORD: password
+    volumes:
+      - ./dataPostgreSQL:/var/lib/dataPostgreSQL
+    restart: unless-stopped
