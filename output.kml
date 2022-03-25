@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <name>Toulouse</name>
+      <description></description>
+      <Point>
+        <coordinates>1.44367,43.60426</coordinates>
+      </Point>
+      <Style><IconStyle><scale>3</scale><Icon><href></href></Icon></IconStyle></Style>
+    </Placemark>
+    <Placemark>
+      <name>Strasbourg Neudorf</name>
+      <description></description>
+      <Point>
+        <coordinates>7.74553,48.58392</coordinates>
+      </Point>
+      <Style><IconStyle><scale>3</scale><Icon><href></href></Icon></IconStyle></Style>
+    </Placemark>
+    <Placemark>
+      <name>Villacoublay</name>
+      <description></description>
+      <Point>
+        <coordinates>2.3488,48.85341</coordinates>
+      </Point>
+      <Style><IconStyle><scale>3</scale><Icon><href></href></Icon></IconStyle></Style>
+    </Placemark>
+    <Placemark>
+      <name>Nice</name>
+      <description></description>
+      <Point>
+        <coordinates>7.26608,43.70313</coordinates>
+      </Point>
+      <Style><IconStyle><scale>3</scale><Icon><href></href></Icon></IconStyle></Style>
+    </Placemark>
+    <Placemark>
+      <name>Nantes</name>
+      <description>LFRS 310500Z 3106/0112 29008KT 9999 SCT010 BKN025 TEMPO 3106/3108 BKN010 TEMPO 3109/3117 33015G25KT=</description>
+      <Point>
+        <coordinates>-1.55336,47.21725</coordinates>
+      </Point>
+      <Style><IconStyle><scale>3</scale><Icon><href>https://s1.qwant.com/thumbr/0x380/2/8/5c823871ecb28b140cce1d49f4457c786696a332c08420b1c58c69cda8a875/sunicon.png?u=https%3A%2F%2Fopenclipart.org%2Fimage%2F2400px%2Fsvg_to_png%2F208526%2Fsunicon.png&amp;q=0&amp;b=1&amp;p=0&amp;a=0</href></Icon></IconStyle></Style>
+    </Placemark>
+    <Placemark>
+      <name>Montpellier</name>
+      <description></description>
+      <Point>
+        <coordinates>3.87635,43.61093</coordinates>
+      </Point>
+      <Style><IconStyle><scale>3</scale><Icon><href></href></Icon></IconStyle></Style>
+    </Placemark>
+    <Placemark>
+      <name>Marseille</name>
+      <description></description>
+      <Point>
+        <coordinates>5.38107,43.29695</coordinates>
+      </Point>
+      <Style><IconStyle><scale>3</scale><Icon><href></href></Icon></IconStyle></Style>
+    </Placemark>
+    <Placemark>
+      <name>Lyon</name>
+      <description>LFLY 310500Z 3106/0106 16006KT 8000 OVC030 PROB30 TEMPO 3106/3109 4000 -RADZ BR BKN020 TEMPO 3110/3113 33015G25KT 4000 SHRA SCT020TCU OVC030 BECMG 3110/3112 33015KT TEMPO 3113/3118 34015G30KT 4000 SHRA SCT015TCU BKN030 BECMG 3122/3124 36005KT=</description>
+      <Point>
+        <coordinates>4.84671,45.74846</coordinates>
+      </Point>
+      <Style><IconStyle><scale>3</scale><Icon><href>http://franck.favetta.free.fr/cours/lyon1/tiwsig/exercices/meteo/images/icones/pluie.png</href></Icon></IconStyle></Style>
+    </Placemark>
+    <Placemark>
+      <name>Lille</name>
+      <description>LFQQ 310654Z 3106/0112 30018KT 9999 SCT030 TEMPO 3106/3119 30023G35KT FM312100 33012KT 9999 SCT040 BECMG 3122/0101 24010KT BECMG 0104/0107 BKN008 OVC013 TEMPO 0107/0112 3000 DZRA OVC005=</description>
+      <Point>
+        <coordinates>3.05858,50.63297</coordinates>
+      </Point>
+      <Style><IconStyle><scale>3</scale><Icon><href>http://franck.favetta.free.fr/cours/lyon1/tiwsig/exercices/meteo/images/icones/pluie.png</href></Icon></IconStyle></Style>
+    </Placemark>
+    <Placemark>
+      <name>Bordeaux</name>
+      <description>LFBD 310603Z 3106/0112 30005KT 9999 BKN014 OVC020 TX10/3114Z TN03/3124Z TEMPO 3106/3112 2000 -RADZ BKN003 BECMG 3112/3114 32012KT SCT020 BECMG 0102/0104 VRB02KT PROB30 0104/0108 MIFG=</description>
+      <Point>
+        <coordinates>-0.5805,44.84044</coordinates>
+      </Point>
+      <Style><IconStyle><scale>3</scale><Icon><href>http://franck.favetta.free.fr/cours/lyon1/tiwsig/exercices/meteo/images/icones/pluie.png</href></Icon></IconStyle></Style>
+    </Placemark>
+  </Document>
+</kml>
